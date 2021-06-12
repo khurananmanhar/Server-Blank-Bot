@@ -1,0 +1,12 @@
+{
+	"prefix": "?",
+	"token": "ODUzMzEwNzQ5Nzk0ODkzODc1.YMThkA.yWgIayGYxjVgNUnjTLa1ixa_HIM",
+	"bot_age": 1,
+	"words_array": ["Hi", "Bye", "NO"],
+	"bot_info" : {
+		"name": "Botman",
+		"version": 1.4,
+		"creator": "Manhar Khurana"
+
+	}
+}
